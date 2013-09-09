@@ -1,0 +1,13 @@
+{
+  "name": "bcrypt",
+  "version": "2.2.0",
+  "main": "./bcrypt.js",
+  "dependencies": {
+    "angular": ">=1.0.8"
+  },
+  "homepage": "https://code.google.com/p/javascript-bcrypt/",
+  "_release": "2.2.0",
+  "_source": "git://github.com/PatrickHeneise/bcrypt.git",
+  "_target": "~1.0.7",
+  "_originalSource": "bcrypt"
+}
